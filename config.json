@@ -1,0 +1,13 @@
+{
+  "appName": "Desktop Tutorial",
+  "version": "1.0.0",
+  "author": "Nikhil Tomar",
+  "github": "https://github.com/nikhiltomar2712/desktop-tutorial",
+  "theme": "light",
+  "features": {
+    "darkMode": true,
+    "animations": true,
+    "analytics": false
+  },
+  "pages": ["index", "about", "contact"]
+}
