@@ -1,0 +1,32 @@
+/* Global Styles */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f0f2f5;
+  color: #333;
+  line-height: 1.6;
+}
+
+header {
+  background-color: #24292e;
+  color: white;
+  padding: 16px 24px;
+}
+
+main {
+  max-width: 900px;
+  margin: 32px auto;
+  padding: 0 16px;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  font-size: 0.85rem;
+  color: #888;
+}
